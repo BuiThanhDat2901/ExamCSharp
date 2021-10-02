@@ -1,0 +1,6 @@
+C:\Users\BTD\RiderProjects\CSharpExam\Ex2\bin\Debug\Ex2.exe
+C:\Users\BTD\RiderProjects\CSharpExam\Ex2\bin\Debug\Ex2.pdb
+C:\Users\BTD\RiderProjects\CSharpExam\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+C:\Users\BTD\RiderProjects\CSharpExam\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\BTD\RiderProjects\CSharpExam\Ex2\obj\Debug\Ex2.exe
+C:\Users\BTD\RiderProjects\CSharpExam\Ex2\obj\Debug\Ex2.pdb
